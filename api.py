@@ -123,9 +123,9 @@ class InstagramDownloader:
             time.sleep(self.update_interval)
 
 if __name__ == "__main__":
-    username = 'ticavaleiro2'
-    password = 'x45b150z'
-    target_username = 'cavaleiroexpress'
+    username = 'USERNAME'
+    password = 'PASSWORD'
+    target_username = 'TARGETUSERNAME'
     output_folder = 'downloads'
     default_image_url = 'https://example.com/default_image.jpg'
     update_interval = 60  # Intervalo de atualização em segundos (por exemplo, 60 segundos)
